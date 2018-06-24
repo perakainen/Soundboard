@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">Soundboard</string>
-    <string name="btnCreate">Test</string>
+    <string name="btnTest">Sound</string>
+    <string name="btnTest2">Sound 2</string>
 </resources>
